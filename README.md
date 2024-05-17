@@ -1,6 +1,7 @@
 # lab-9
 
 Logueo en mysql
+<br>
 <img width="777" alt="Captura de pantalla 2024-05-17 a la(s) 10 13 09 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/4b03b8c0-158a-4d6d-aab8-e15f2123699c">
 
 Creacion de la base de datos

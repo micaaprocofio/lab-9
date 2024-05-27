@@ -27,3 +27,10 @@ Se le insertaron 3 registros a la tabla
 Se realizo una consulta a la tabla para ver que se hayan insertado los registros correctamente
 
 <img width="385" alt="Captura de pantalla 2024-05-17 a la(s) 10 17 16 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/5d86e544-d6d9-47dc-9874-ae48ce109f82">
+
+Creacion de usuario, donde se le da todos los privilegios y solo se le permite acceder a la base de datos ejemplo
+
+<img width="549" alt="Captura de pantalla 2024-05-27 a la(s) 11 34 51 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/cd875991-6b01-4db1-b1c8-24c978f34225">
+<img width="604" alt="Captura de pantalla 2024-05-27 a la(s) 11 35 04 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/acd27f3e-9916-4f69-aca9-221c5097dea1">
+<img width="604" alt="Captura de pantalla 2024-05-27 a la(s) 11 35 19 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/ebf9219b-dd80-4572-8f6e-58f6b6252035">
+

@@ -53,3 +53,26 @@ Creacion de usuario, donde se le da todos los privilegios y solo se le permite a
 <img width="604" alt="Captura de pantalla 2024-05-27 a la(s) 11 35 04 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/acd27f3e-9916-4f69-aca9-221c5097dea1">
 <img width="604" alt="Captura de pantalla 2024-05-27 a la(s) 11 35 19 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/ebf9219b-dd80-4572-8f6e-58f6b6252035">
 
+Conexion satisfactoria desde el MySQLWorkBench
+
+<img width="1028" alt="Captura de pantalla 2024-05-27 a la(s) 11 35 53 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/410432dc-1041-4368-bc97-c313d04d0d74">
+
+Query con multiples consultas
+
+<img width="1434" alt="Captura de pantalla 2024-05-27 a la(s) 11 50 01 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/eb8149fb-054b-458d-9098-42cf077ff79e">
+
+Resultado de "SELECT * FROM usuarios;"
+
+<img width="999" alt="Captura de pantalla 2024-05-27 a la(s) 11 50 20 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/86f138aa-aa21-4c21-8d13-88bc4dc127c5">
+
+Resultado del INSERT a la tabla usuarios
+
+<img width="999" alt="Captura de pantalla 2024-05-27 a la(s) 11 50 24 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/3ac0e3e4-6607-4857-b25a-e043491b579d">
+
+Resultado de "SELECT * FROM usuarios WHERE email like '%mail.com%';"
+
+<img width="999" alt="Captura de pantalla 2024-05-27 a la(s) 11 50 28 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/b1d0a3a8-4dfc-4e9a-be3e-a64f2768f72d">
+
+Resultado del DELETE del usuario con el id 3
+
+<img width="999" alt="Captura de pantalla 2024-05-27 a la(s) 11 50 32 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/7e79aa02-fb93-4fe4-be88-53ba1104d1ea">

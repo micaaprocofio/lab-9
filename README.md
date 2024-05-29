@@ -1,4 +1,23 @@
 # lab-9
+Abrir configuracion con el comando "sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf"
+
+<img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 9 31 07 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/16df0a09-01f1-47bf-a353-9f899c9120d7">
+
+Cambio de ip a 0.0.0.0 en el bind-address para permitir que cualquier ip se pueda conectar
+
+<img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 9 09 01 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/45b7c57e-fa67-46a8-b871-6d5c872975c2">
+
+Se reinicia el mysql con el comando "sudo systemctl restart mysql" para que tome la nueva configuracion
+
+<img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 9 31 07 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/16df0a09-01f1-47bf-a353-9f899c9120d7">
+
+Creacion de la regla de entrada al puerto 3306 en la maquina virtual para que cualquiera pueda acceder
+
+<img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 9 35 52 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/c56bce9b-3bef-4016-88bd-6d6fe0967dc1">
+
+Puerto de entrada creado satisfactoriamente
+
+<img width="1440" alt="Captura de pantalla 2024-05-27 a la(s) 9 36 26 a  m" src="https://github.com/micaaprocofio/lab-9/assets/163476050/e6367e12-b715-4c6f-96e3-4c9eed8167b1">
 
 Logueo en mysql
 
